@@ -28,7 +28,7 @@ First, you need to install the prerequisites:
 pip install -r requirements.txt
 
 Then, run the bot:
-python gitwaydownloader.py
+python githabdownload.py
 
 Done.
 
