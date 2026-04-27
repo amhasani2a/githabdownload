@@ -22,7 +22,7 @@ Now, this Telegram bot performs exactly this process automatically.
 
 Instructions to run the bot on your server:
 
-Note: Inside the bot's code (i.e., the gitwaydownloader.py file), replace the Telegram bot token and your numeric ID in the first few lines of the code.
+Note: Inside the bot's code (i.e., the githabdownload.py file), replace the Telegram bot token and your numeric ID in the first few lines of the code.
 
 First, you need to install the prerequisites:
 pip install -r requirements.txt
